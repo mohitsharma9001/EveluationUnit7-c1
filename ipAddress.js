@@ -6,4 +6,6 @@ dns.lookup('masaischool.com', (err, value) => {
         return; 
     } 
     console.log(value); 
-}) 
+}
+
+)
